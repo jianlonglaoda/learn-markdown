@@ -2,7 +2,7 @@
 ##  小标题
 ### 小小标题
 this is a **bold** *italic* text sample
-This is a [hyperlink](https://github.com/jianlonglaoda)
+This is a [hyperlink](More.md).
 > John Gruber 
 >
 >--Verge
